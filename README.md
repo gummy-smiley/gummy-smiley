@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello, I'm Patthanan! 👋
 
-<!--
-**gummy-smiley/gummy-smiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- 🏫 I'm currently in grade six at Rajinibon School in Thailand.
+- 💻 I'm passionate about computer programming and artificial intelligence.
+- 🌱 I'm eager to learn and explore new technologies.
+- 🎨 Apart from coding, I also enjoy computer gaming.
 
-Here are some ideas to get you started:
+### My Interests
+- 🤖 Artificial Intelligence
+- 🖥️ Computer Programming
+- 📱 IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+- 🐍 Python
+- 💻 Scratch
+- 🔭 C#
+
+### Projects
+- none. just beginning.
